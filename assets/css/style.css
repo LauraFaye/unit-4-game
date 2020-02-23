@@ -1,0 +1,31 @@
+.crystalpic{
+    height:100px;
+    width: 100px;
+    }
+
+    #random-area {
+      height:150px;
+      background:rgb(138, 173, 138);
+      }
+
+      #score-area{
+        height:150px;
+        width:250px;
+        background:rgb(238, 98, 98)
+      }
+
+      #win-area{
+        background:rgb(167, 120, 167)
+      }
+
+      #greenCrystal{
+        background:green
+      }
+
+      #redCrystal{
+        background:red
+      }
+
+      #yellowCrystal{
+        background:yellow
+      }
